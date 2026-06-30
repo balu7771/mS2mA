@@ -1,7 +1,9 @@
-# mS2mA — AI Transformation Proposal Generator
+# mS2mA — microServices to microAgents ( AI Transformation Proposal Generator )
 
-> **From manual weeks to automated hours.**  
-> An AI-native platform that generates consultant-quality enterprise AI transformation proposals automatically — by ingesting data from 20+ enterprise systems and running specialized AI agents.
+> **Every enterprise runs on microservices. The next evolution is microAgents.**  
+> mS2mA is an AI-native platform that automatically generates consultant-quality AI transformation proposals — showing enterprises exactly how to evolve their existing microservice architecture into an AI-agentic one.
+
+*The name says it all: take what you have (microServices) → show you where to go (microAgents).*
 
 ---
 
@@ -60,6 +62,8 @@ Datadog / Splunk     →   ROI Agent            →   C4 Diagrams
 
 **Stack:** FastAPI · Next.js · LangGraph · Amazon Bedrock (Claude) · PostgreSQL + pgvector · OpenSearch · Neo4j · Temporal.io · AWS ECS Fargate
 
+> The platform itself is also built *as* microAgents — practising what it preaches.
+
 ---
 
 ## Progress — BMAD Workflow
@@ -104,4 +108,4 @@ mS2mA/
 
 ---
 
-*Built by Balu · Using [BMAD Method](https://bmad-method.org) · 2026*
+*Built by Balu · **mS2mA = microServices → microAgents** · Using [BMAD Method](https://bmad-method.org) · 2026*
