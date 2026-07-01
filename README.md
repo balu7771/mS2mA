@@ -74,7 +74,7 @@ This project follows the **[BMAD Method](https://bmad-method.org)** — a struct
 |-------|-------|--------|----------|
 | **1 — Analysis** | Technical Research | ✅ Done | [84KB research doc](./BMAD/_bmad-output/planning-artifacts/research/technical-ai-transformation-proposal-generator-research-2026-06-26.md) |
 | **1 — Analysis** | Brainstorming (GTM) | ✅ Done | [GTM session log](./BMAD/_bmad-output/brainstorming/brainstorm-ai-proposal-generator-gtm-2026-06-28/.memlog.md) |
-| **2 — Planning** | PRD | 🔜 Next | — |
+| **2 — Planning** | PRD | ✅ Done (draft) | [PRD — AI Transformation Proposal Generator](./BMAD/_bmad-output/planning-artifacts/prds/prd-mS2mA-2026-07-01/prd.md) · [Addendum](./BMAD/_bmad-output/planning-artifacts/prds/prd-mS2mA-2026-07-01/addendum.md) |
 | **2 — Planning** | UX Design | ⬜ Pending | — |
 | **3 — Solutioning** | Architecture | ⬜ Pending | — |
 | **3 — Solutioning** | Epics & Stories | ⬜ Pending | — |
@@ -102,7 +102,8 @@ mS2mA/
     ├── _bmad/                  # BMAD core engine
     └── _bmad-output/
         ├── planning-artifacts/
-        │   └── research/       # ✅ Technical research (84KB)
+        │   ├── research/       # ✅ Technical research (84KB)
+        │   └── prds/           # ✅ PRD draft (rev 2 — GTM brainstorm incorporated)
         └── brainstorming/      # ✅ GTM brainstorming session
 ```
 
